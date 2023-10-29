@@ -2,10 +2,10 @@
     "packageId": "Put_Package_Id_Here",
     "name": "Name of your package",
     "version": "0.0.1",
-    "minTextGeneratorVersion": "0.1.0",
+    "minTextGeneratorVersion": "0.5.7",
     "description": "The description of the content of this package",
     "author": "Your name",
     "tags": "writing, brainstorming",
     "authorUrl": "Support URL",
-    "repo": "username/repo"
+    "repo": "haouarihk/test"
 }
